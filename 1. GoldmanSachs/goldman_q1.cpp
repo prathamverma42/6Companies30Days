@@ -1,5 +1,5 @@
 class Solution
-{
+{ 
 public:
     vector<vector<string>> Anagrams(vector<string> &string_list)
     {
