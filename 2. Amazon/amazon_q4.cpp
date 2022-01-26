@@ -45,6 +45,5 @@ public:
         solve(p,1,n-1);
         print(ans,0,n-1);
         return ans;
-        
     }
 };
